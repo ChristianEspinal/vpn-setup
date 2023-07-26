@@ -3,7 +3,7 @@
 </p>
 
 <h1>VPN Setup and usage within Azure</h1>
-In this tutorial, we set up and connected to a VPN and also abserved how our IP changes after connecting to it. <br />
+In this tutorial, we set up and connected to a VPN and also observed how our IP changes after connecting to it. <br />
 
 
 
